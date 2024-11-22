@@ -5,7 +5,7 @@
 ## About
 
 * [Values](about/values.md)
-* [Publish your docs](about/publish-your-docs.md)
+* [Contributing](about/contributing.md)
 
 ## Basics
 
