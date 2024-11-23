@@ -6,6 +6,7 @@
 
 * [Values](about/values.md)
 * [Contributing](about/contributing.md)
+* [Code of Conduct](about/code-of-conduct.md)
 
 ## Basics
 
